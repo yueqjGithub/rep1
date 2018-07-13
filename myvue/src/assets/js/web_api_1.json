@@ -1,0 +1,87 @@
+﻿{
+    "code": 0,
+    "msg": "",
+    "count": 245,
+    "data": [
+        {
+            "id": "1",
+            "name": "Google",
+            "pass": "testtest",
+            "phone": "18**332****",
+            "email": "123456@qq.com",
+            "register_time": "2017/01/23 12:22:11"
+        },
+        {
+            "id": "2",
+            "name": "Google",
+            "pass": "testtest",
+            "phone": "18**332****",
+            "email": "123456@qq.com",
+            "register_time": "2017/01/23 12:22:11"
+        },
+        {
+            "id": "3",
+            "name": "Google",
+            "pass": "testtest",
+            "phone": "18**332****",
+            "email": "123456@qq.com",
+            "register_time": "2017/01/23 12:22:11"
+        },
+        {
+            "id": "4",
+            "name": "Google",
+            "pass": "testtest",
+            "phone": "18**332****",
+            "email": "123456@qq.com",
+            "register_time": "2017/01/23 12:22:11"
+        },
+        {
+            "id": "5",
+            "name": "Google",
+            "pass": "testtest",
+            "phone": "18**332****",
+            "email": "123456@qq.com",
+            "register_time": "2017/01/23 12:22:11"
+        },
+        {
+            "id": "6",
+            "name": "Google",
+            "pass": "testtest",
+            "phone": "18**332****",
+            "email": "123456@qq.com",
+            "register_time": "2017/01/23 12:22:11"
+        },
+        {
+            "id": "7",
+            "name": "Google",
+            "pass": "testtest",
+            "phone": "18**332****",
+            "email": "123456@qq.com",
+            "register_time": "2017/01/23 12:22:11"
+        },
+        {
+            "id": "8",
+            "name": "Google",
+            "pass": "testtest",
+            "phone": "18**332****",
+            "email": "123456@qq.com",
+            "register_time": "2017/01/23 12:22:11"
+        },
+        {
+            "id": "9",
+            "name": "Google",
+            "pass": "testtest",
+            "phone": "18**332****",
+            "email": "123456@qq.com",
+            "register_time": "2017/01/23 12:22:11"
+        },
+        {
+            "id": "10",
+            "name": "Google",
+            "pass": "testtest",
+            "phone": "18**332****",
+            "email": "123456@qq.com",
+            "register_time": "2017/01/23 12:22:11"
+        }
+    ]
+}
